@@ -2,4 +2,4 @@
 Android Apps built on Android Studio.
 
 
-Pure.
+
